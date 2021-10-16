@@ -10,8 +10,19 @@
 10. 3 - 
 11. [ 50, 100, 150 ] - 
 12. 
-    a. student.name
-    b. student['Grad Year']
-    c. student.greeting()
-    d. student['Favorite Teacher'].name
-    e. student.courseLoad[0]
+    1. student.name
+    2. student['Grad Year']
+    3. student.greeting()
+    4. student['Favorite Teacher'].name
+    5. student.courseLoad[0]
+
+13. 
+14. 
+15. 
+
+16. 
+
+17. 
+
+18. 
+19. 
