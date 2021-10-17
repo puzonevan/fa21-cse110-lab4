@@ -1,0 +1,1 @@
+1. The bug is that getting the value gets the string value and must be casted to Numbers before doing arithmetic 
